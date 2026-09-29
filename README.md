@@ -72,7 +72,7 @@ TrackPoint — это веб-приложение, в котором польз�
 | Backend | Nodejs |
 | База данных | MySQL |
 | Frontend | Javascript, CSS, html |
-| Аутентификация | - |
+| Аутентификация | сессии в БД + cookies |
 | Версионирование | Git + GitHub |
 | Окружение | venv + pip |
 
